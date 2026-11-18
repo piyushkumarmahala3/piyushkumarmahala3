@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/piyushkumarmahala3/piyushkumarmahala3/f5f1a98c8ab0ec78c21f72aae9f68b5834e65122/banner.gif" width="100%" alt="Piyush Kumar — Business Growth & Digital Solutions Consultant" />
+  <a href="https://github.com/piyushkumarmahala3/piyushkumarmahala3/blob/fbfd1b1ec0b0971cc3e713a250dfa6fa0a547be8/banner-video-with-sound-optimized.mp4" title="Watch the banner video with sound">
+    <img src="https://raw.githubusercontent.com/piyushkumarmahala3/piyushkumarmahala3/fbfd1b1ec0b0971cc3e713a250dfa6fa0a547be8/profile-banner-from-video-optimized-v3.gif" width="100%" alt="Piyush Kumar — Business Growth &amp; Digital Solutions Consultant. Click to watch with sound." />
+  </a>
 </p>
 
 <p align="center">
