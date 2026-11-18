@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/piyushkumarmahala3/piyushkumarmahala3/main/banner.gif" width="100%" alt="Piyush Kumar — B.Tech CSE and AI student at Newton School of Technology, Rishihood University, and Business Growth & Digital Solutions Consultant" />
+  <img src="https://raw.githubusercontent.com/piyushkumarmahala3/piyushkumarmahala3/c85ecd3de40ab3e2f961d10279ea9593a66e0eef/banner.gif" width="100%" alt="Piyush Kumar — B.Tech CSE and AI student at Newton School of Technology, Rishihood University, and Business Growth & Digital Solutions Consultant" />
 </p>
 
 <p align="center">
