@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
   <title id="title">Piyush Kumar — Business Growth &amp; Digital Solutions Consultant</title>
-  <desc id="desc">A premium black and gold profile banner with Piyush Kumar's business growth and digital solutions consulting title.</desc>
+  <desc id="desc">A polished navy and teal profile banner with Piyush Kumar's business growth and digital solutions consulting title.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090909"/>
-      <stop offset=".58" stop-color="#171412"/>
-      <stop offset="1" stop-color="#080808"/>
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset=".56" stop-color="#0B1C31"/>
+      <stop offset="1" stop-color="#06101E"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FFF0C9"/>
-      <stop offset=".48" stop-color="#D3A552"/>
-      <stop offset="1" stop-color="#FFF0C9"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3478D8"/>
+      <stop offset=".55" stop-color="#43D4CC"/>
+      <stop offset="1" stop-color="#57A5EE"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="400" rx="24" fill="url(#bg)"/>
-  <path d="M-30 240C150 106 195 38 365 42S634 98 830-45" fill="none" stroke="url(#gold)" stroke-opacity=".72" stroke-width="3"/>
-  <path d="M490 435C680 346 765 325 872 274S1063 198 1238 216" fill="none" stroke="url(#gold)" stroke-opacity=".82" stroke-width="4"/>
-  <path d="M700 0 1100 400M812 0 1198 385M0 350 170 180" stroke="#D3A552" stroke-opacity=".08" stroke-width="1"/>
-  <circle cx="1030" cy="172" r="86" fill="none" stroke="#D3A552" stroke-opacity=".22"/>
-  <circle cx="1030" cy="172" r="57" fill="none" stroke="#D3A552" stroke-opacity=".34"/>
-  <circle cx="1030" cy="172" r="5" fill="#FFE4A6"/>
-  <circle cx="1096" cy="121" r="3" fill="#FFE4A6"/>
-  <circle cx="964" cy="226" r="2.5" fill="#D3A552"/>
-  <rect x="88" y="92" width="5" height="216" rx="2.5" fill="url(#gold)"/>
-  <text x="120" y="174" fill="#F8F5EE" font-family="Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="1">PIYUSH KUMAR</text>
-  <rect x="122" y="198" width="300" height="3" rx="1.5" fill="url(#gold)"/>
-  <text x="122" y="255" fill="#F2D9A2" font-family="Arial, sans-serif" font-size="25" font-weight="600">Business Growth &amp; Digital Solutions Consultant</text>
+  <path d="M-30 240C155 96 220 42 390 58S650 112 820-40" fill="none" stroke="url(#accent)" stroke-opacity=".52" stroke-width="3"/>
+  <path d="M530 430C708 350 790 320 900 269S1070 197 1236 216" fill="none" stroke="url(#accent)" stroke-opacity=".66" stroke-width="4"/>
+  <path d="M744 0 1135 400M840 0 1200 360" stroke="#67DDE0" stroke-opacity=".08" stroke-width="1"/>
+  <circle cx="1034" cy="168" r="86" fill="none" stroke="#48D8D0" stroke-opacity=".18"/>
+  <circle cx="1034" cy="168" r="56" fill="none" stroke="#48D8D0" stroke-opacity=".32"/>
+  <circle cx="1034" cy="168" r="5" fill="#8AF0E6"/>
+  <circle cx="1098" cy="118" r="3" fill="#8AF0E6"/>
+  <circle cx="968" cy="222" r="2.5" fill="#65AFFF"/>
+  <rect x="88" y="92" width="5" height="216" rx="2.5" fill="url(#accent)"/>
+  <text x="120" y="174" fill="#F4F8FC" font-family="Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="1">PIYUSH KUMAR</text>
+  <rect x="122" y="198" width="300" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="122" y="255" fill="#86EAE2" font-family="Arial, sans-serif" font-size="25" font-weight="600">Business Growth &amp; Digital Solutions Consultant</text>
 </svg>
