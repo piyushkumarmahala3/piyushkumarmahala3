@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/piyushkumarmahala3/piyushkumarmahala3/main/banner.svg" width="100%" alt="Piyush Kumar — Student Developer, focused on Python and web development" />
+  <img src="https://raw.githubusercontent.com/piyushkumarmahala3/piyushkumarmahala3/main/banner.gif" width="100%" alt="Piyush Kumar — B.Tech CSE and AI student at Newton School of Technology, Rishihood University, and Business Growth & Digital Solutions Consultant" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### About
 
-I’m a first-year student at Newton School of Technology, Rishihood University, building a strong foundation in software development. I’m learning Python and core programming concepts while creating hands-on web projects. I enjoy breaking down problems and turning ideas into clear, useful solutions.
+I’m pursuing a B.Tech in Computer Science & AI at Newton School of Technology, Rishihood University. Alongside my studies, I work as a Business Growth & Digital Solutions Consultant, focusing on practical digital initiatives for businesses.
 
 ### Current Focus
 
-- Strengthening my Python and programming fundamentals
-- Building and improving practical web projects
+- Computer Science and Artificial Intelligence
+- Business growth and digital solutions
