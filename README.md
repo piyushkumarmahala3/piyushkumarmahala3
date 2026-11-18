@@ -1,16 +1,14 @@
-## Hi there 👋
+# Piyush Kumar
 
-<!--
-**piyushkumarmahala3/piyushkumarmahala3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student Developer | Python | Web Development
 
-Here are some ideas to get you started:
+I’m a first-year student at Newton School of Technology, Rishihood University, building a strong foundation in software development. I’m learning Python and core programming concepts while creating hands-on web projects. I enjoy breaking down problems and turning ideas into clear, useful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Strengthening my Python and programming fundamentals
+- Building and improving practical web projects
+
+## Portfolio
+
+[codewithpiyush.vercel.app](https://codewithpiyush.vercel.app)
